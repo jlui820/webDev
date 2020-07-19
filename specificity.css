@@ -1,0 +1,19 @@
+/* ul {
+  color: purple;
+} */
+
+body {
+  color: red;
+}
+
+ul li:nth-child(2) {
+  color: pink;
+}
+
+p {
+  color: green;
+}
+
+li {
+  color: orange;
+}
