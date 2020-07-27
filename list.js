@@ -1,4 +1,4 @@
-let todos = ['buy new turtle'];
+let todos = ['buy new turtle', 'wash the dog'];
 
 let input = prompt('What would you like to do?');
 
@@ -17,4 +17,4 @@ while (input !== 'quit') {
   input = prompt('What would you like to do?');
 }
 
-console.log('ok you quit')
+console.log('All chores finished!')
